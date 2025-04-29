@@ -1,13 +1,13 @@
-import Image from "next/image";
-import Navbar from "@/compnents/Navbar";
-import Hero from "@/compnents/Hero";
-import About from "@/compnents/About";
-import Accommodation from "@/compnents/Accomodation";
-import Amenities from "@/compnents/Amenities";
-import Gallery from "@/compnents/Gallery";
-import Location from "@/compnents/Location";
-import Testimonials from "@/compnents/Testmonials";
-import ContactFooter from "@/compnents/Footer";
+
+import Navbar from "@/components/Navbar";
+import Hero from "@/components/Hero";
+import About from "@/components/About";
+import Accommodation from "@/components/Accomodation";
+import Amenities from "@/components/Amenities";
+import Gallery from "@/components/Gallery";
+import Location from "@/components/Location";
+import Testimonials from "@/components/Testmonials";
+import ContactFooter from "@/components/Footer";
 
 export default function Home() {
   return (

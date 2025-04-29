@@ -19,7 +19,7 @@ const Hero = () => {
           Escape to Serenity
         </h1>
         <p className="text-lg md:text-2xl text-gray-200 mb-10 max-w-3xl drop-shadow-md">
-          Nestled by the tranquil waters of Harangi, Elite Cottages offers cozy lakeside Cottage and tent stays experiences in the heart of Madikeri's breathtaking nature.
+          Nestled by the tranquil waters of Harangi, Elite Cottages offers cozy lakeside Cottage and tent stays experiences in the heart of Madikeri&apos;s breathtaking nature.
         </p>
         <a
           href="#contact"

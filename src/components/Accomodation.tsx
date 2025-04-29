@@ -33,7 +33,7 @@ const Accommodation = () => {
             />
             <h3 className="text-2xl font-semibold text-[#2f3e46] mb-4">Cottage Stay</h3>
             <p className="text-lg text-gray-700 mb-4">
-              Relax and unwind in our comfortable cottages, surrounded by nature’s beauty. Perfect for families, couples, or anyone looking to escape the hustle and bustle.
+              Relax and unwind in our comfortable cottages, surrounded by nature&apos;s beauty. Perfect for families, couples, or anyone looking to escape the hustle and bustle.
             </p>
             <a
               href="#contact"

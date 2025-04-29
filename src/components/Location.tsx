@@ -69,7 +69,7 @@ const Location = () => {
               </li>
               <li className="flex items-center space-x-2">
                 <FaCheckCircle className="text-[#52796f]" />
-                <span>Raja's Seat (22 km)</span>
+                <span>Raja&apos;s Seat (22 km)</span>
               </li>
               <li className="flex items-center space-x-2">
                 <FaCheckCircle className="text-[#52796f]" />

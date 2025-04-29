@@ -9,7 +9,7 @@ const ContactFooter = () => {
           <div className="flex-1">
             <h2 className="text-3xl font-extrabold mb-4">Contact Us Now</h2>
             <p className="text-lg mb-8">
-              Have any questions or want to make a reservation? We're here to help!
+              Have any questions or want to make a reservation? We&apos;re here to help!
             </p>
 
             {/* Use flex-col and center the phone numbers in small screens */}

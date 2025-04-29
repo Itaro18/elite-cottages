@@ -12,7 +12,7 @@ const Accommodation = () => {
   }, []);
 
   return (
-    <section id="accommodation" className="py-16 bg-[#fdfaf6]">
+    <section id="accommodations" className="py-16 bg-[#fdfaf6]">
       <div className="max-w-7xl mx-auto px-4 text-center">
         <h2 className="text-3xl font-extrabold text-[#2f3e46] mb-10">
           Choose Your Perfect Stay
